@@ -1,0 +1,15 @@
+{
+  "name": "L05BootstrapComponents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "David Cruwys <david@ideasmen.com.au> (https://appydave.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta2"
+  }
+}
