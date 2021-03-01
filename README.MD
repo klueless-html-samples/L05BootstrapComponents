@@ -10,15 +10,9 @@ Before and after for L05 Bootstrap Components in HTML
 
 <table>
 <tr>
-  <th>Before</th>
   <th>After</th>
 </tr>
 <tr>
-  <td>
-  
-  ![Before](shot-before.png 'Before screenshot')
-  
-  </td>
   <td>
   
   ![After](shot-after.png 'After screenshot')
